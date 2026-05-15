@@ -25,4 +25,4 @@ A beginner-friendly AI chatbot developed using Python and Streamlit.
 - Multi-language support
 
 ## Author
-SRICHARAN M
+SRICHARAN MUPPALLA
